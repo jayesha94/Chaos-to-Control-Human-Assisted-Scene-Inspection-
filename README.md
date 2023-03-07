@@ -10,5 +10,10 @@ Elin Anna Topp (Profile link: https://cs.lth.se/topp-elinanna/)
 
 # Late Breaking Report Video
 
+<img width="1017" alt="Screenshot 2023-03-07 at 13 37 44" src="https://user-images.githubusercontent.com/73538802/223436591-e44b3184-4618-4365-a326-a158513d395b.png">
+https://youtu.be/f2-ykYXcrdc
+
 # Project related resources
+ELLIIT: https://elliit.se/
+WARA-PS: https://wasp-sweden.org/research/research-arenas/wara-ps-public-safety/
 
