@@ -14,6 +14,8 @@ Elin Anna Topp (Profile link: https://cs.lth.se/topp-elinanna/)
 https://youtu.be/f2-ykYXcrdc
 
 # Project related resources
+Robotics and Semantic Systems, Computer Science: https://rss.cs.lth.se/ 
+
 ELLIIT: https://elliit.se/  
 
 WARA-PS: https://wasp-sweden.org/research/research-arenas/wara-ps-public-safety/
