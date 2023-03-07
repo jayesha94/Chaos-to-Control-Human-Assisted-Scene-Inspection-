@@ -21,3 +21,6 @@ ELLIIT: https://elliit.se/
 
 WARA-PS: https://wasp-sweden.org/research/research-arenas/wara-ps-public-safety/
 
+# Feedback form
+https://forms.gle/SWvLXkFBkDBJrWh96
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQjR1anMBSd6A88Ngew8sU-PtwRzcNK0ZsuD9_wrGA4snsMg/viewform?embedded=true" width="640" height="1372" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
