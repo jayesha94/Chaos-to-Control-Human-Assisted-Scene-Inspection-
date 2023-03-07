@@ -14,6 +14,6 @@ Elin Anna Topp (Profile link: https://cs.lth.se/topp-elinanna/)
 https://youtu.be/f2-ykYXcrdc
 
 # Project related resources
-ELLIIT: https://elliit.se/
+ELLIIT: https://elliit.se/ 
 WARA-PS: https://wasp-sweden.org/research/research-arenas/wara-ps-public-safety/
 
