@@ -10,7 +10,7 @@ Elin Anna Topp (Profile link: https://cs.lth.se/topp-elinanna/)
 To be updated soon
 
 # Late Breaking Report Video
-<img width="1017" alt="Screenshot 2023-03-07 at 14 54 54" src="https://user-images.githubusercontent.com/73538802/223443000-a8db037b-a7f6-4fcc-bc8f-3b50467e1e49.png">
+<img width="1017" alt="Screenshot 2023-03-07 at 18 50 13" src="https://user-images.githubusercontent.com/73538802/223507057-4e01447f-ade2-4f6a-a50a-2ed670396aea.png">
 
 https://youtu.be/f2-ykYXcrdc
 
