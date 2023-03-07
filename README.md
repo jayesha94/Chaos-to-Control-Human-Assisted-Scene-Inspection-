@@ -1,2 +1,2 @@
-# Chaos-to-Control-Human-Assisted-Scene-Inspection-
+# Chaos-to-Control-Human-Assisted-Scene-Inspection
 Relevant links and information
